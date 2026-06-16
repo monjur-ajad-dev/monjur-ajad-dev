@@ -19,81 +19,75 @@
 ---
 
 ## 💫 About Me
-[cite_start] Dedicated Software Engineer based in West Dhanmondi, Dhaka, Bangladesh, with a focus on scalable web applications, fintech innovations, and workflow enhancement. [cite_start]I excel in crafting and developing scalable web applications that boost organizational efficiency. With a proven history of integrating technologies, streamlining workflows, and providing impactful digital solutions, I ensure high performance and a smooth user experience.
+Dedicated Software Engineer based in West Dhanmondi, Dhaka, Bangladesh, with a focus on scalable web applications, fintech innovations, and workflow enhancement. [cite_start]I excel in crafting and developing scalable web applications that boost organizational efficiency. With a proven history of integrating technologies, streamlining workflows, and providing impactful digital solutions, I ensure high performance and a smooth user experience.
 
-- 🔭 **Current Focus:** [cite_start]Leading technical teams to deliver secure, high-performance fintech products.
-- ⚡ **Core Strength:** [cite_start]Advanced error mapping, big data optimization, and workflow automation.
-- 🎨 **Activities:** [cite_start]Digital Content Creator, Programming Club Activist, and Graphics Enthusiast.
+- 🔭 **Current Focus:** Leading technical teams to deliver secure, high-performance fintech products.
+- ⚡ **Core Strength:** Advanced error mapping, big data optimization, and workflow automation.
+- 🎨 **Activities:** Digital Content Creator, Programming Club Activist, and Graphics Enthusiast.
+
+---
+## 🚀 Tech Arsenal
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,vue,js,ts" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+</p>
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,digitalocean" />
+</p>
 
 ---
 
-## 📊 Dynamic Stats & Activity Motion
+## 🏆 Career Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monjur-ajad-dev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Monjurul's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monjur-ajad-dev&layout=compact&theme=tokyonight&langs_count=6" alt="Most Used Languages" width="48%" />
-</p>
+### 💳 Fintech Solutions
 
-### 🔥 Contribution Streak & Commit Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monjur-ajad-dev&theme=tokyonight" alt="GitHub Streak" width="97%" />
-</p>
+* Developed secure payment gateway integrations
+* Built scalable cashback & loyalty systems
+* Reduced transaction failures by 20%
+* Advanced error mapping across providers
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=monjur-ajad-dev&theme=tokyonight" alt="Commit Activity Graph" width="97%" />
-</p>
+### 👥 Leadership
 
----
+* Led cross-functional engineering teams
+* Managed sprint planning and delivery
+* Delivered enterprise fintech products
 
-## 🛠️ Tech Stack & Interactive Skills
+### 📈 Performance
 
-<p align="left">
-  <!-- Languages -->
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/php-colored.svg" alt="PHP" width="40" height="40" /></a> &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="40" height="40" /></a> &nbsp;
-  <!-- Frameworks -->
-  <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/laravel-colored.svg" alt="Laravel" width="40" height="40" /></a> &nbsp;
-  <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/nextjs-colored.svg" alt="Next.js" width="40" height="40" /></a> &nbsp;
-  <a href="https://vuejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/vuejs-colored.svg" alt="Vue.js" width="40" height="40" /></a> &nbsp;
-  <a href="https://reactjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/react-colored.svg" alt="React" width="40" height="40" /></a> &nbsp;
-  <!-- Databases -->
-  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/mysql-colored.svg" alt="MySQL" width="40" height="40" /></a> &nbsp;
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" width="40" height="40" /></a> &nbsp;
-  <!-- Cloud & Tools -->
-  <a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/digitalocean-colored.svg" alt="DigitalOcean" width="40" height="40" /></a> &nbsp;
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/git-colored.svg" alt="Git" width="40" height="40" /></a> &nbsp;
-</p>
-
-| Category | Technologies |
-| :--- | :--- |
-| **Programming** | `PHP`, `JavaScript (ES6+)` |
-| **Frameworks** | `Laravel`, `Next.js`, `Vue.js`, `React.js` |
-| **Databases** | `MySQL`, `PostgreSQL` |
-| **DevOps & Cloud** | `Digital Ocean Cloud`, `ConTabo cPanel/WHM` |
-| **Tools & QA** | `Git`, `GitHub`, `Jira`, `SonarQube` |
+* Optimized big data processing pipelines
+* Improved workflow automation
+* Enhanced application scalability
 
 ---
 
-## 💼 Work Experience
+## 🌍 Featured Projects
 
-### 🚀 Senior Software Engineer (Team Lead) | Softrobotics Bangladesh LTD
-*Nov 2023 - Present*
-- 💳 **Payment Gateway Solutions:** [cite_start]Designed and developed secure, scalable payment integrations for the Turkish fintech market (Sipay), increasing transaction reliability.
-- 📉 **Error Mapping & Reliability:** [cite_start]Reduced transaction failures by **15-20%** through advanced error mapping across multiple providers and optimizing big data environments.
-- 🎁 **Engagement Systems:** [cite_start]Built dynamic cashback and loyalty modules, improving user retention rates and engagement.
-- 👥 **Team Leadership:** [cite_start]Led a technical team using Jira for sprint planning, ensuring **100% on-time delivery** of complex fintech features.
+| Project           | Category    | Tech                |
+| ----------------- | ----------- | ------------------- |
+| Sipay Fintech     | Fintech     | Laravel, PostgreSQL |
+| Mustaqbal Zamzam  | E-commerce  | Laravel             |
+| BP Touch          | E-commerce  | Laravel             |
+| 7L Consortium ERP | ERP         | Laravel, Vue        |
+| Hourly Engineer   | Marketplace | Laravel             |
 
-### 💻 Software Engineer | Dhaka Jacos
-*Dec 2021 - Oct 2023*
-- 🔄 **Workflow Optimization:** [cite_start]Engineered requisition workflows across multiple branches, reducing manual approval time by **30%** through authorized digital edits.
-- 📦 **Inventory Control:** [cite_start]Implemented full-stack inventory functions including stock transfers and damage tracking, ensuring **99% accuracy** in stock reporting.
-
-### 🛠️ Software Engineer | Skill-Based IT (SBIT)
-*May 2018 - Nov 2021*
-- 🛒 **Multivendor E-commerce System:** [cite_start]Engineered a scalable multi-vendor e-commerce platform supporting multi-branch operations, advanced workflows, and rider-based order tracking.
-- 📦 **Inventory & POS Management:** [cite_start]Delivered robust inventory functionality covering purchase receiving, product issuance, and real-time stock adjustments.
-- 🚚 **Courier Ecosystem:** [cite_start]Developed a courier management system tailored to Bangladesh's logistics flow (similar to Steadfast) with parcel booking and status tracking.
-
+---
 ---
 
 ## 🌐 Live Product Showcases
@@ -104,11 +98,63 @@
 
 ---
 
-## 🎓 Education & Continuous Learning
+## 📊 GitHub Analytics
 
-- 🎓 **Bachelor of CSE** – Feni University (Passing: 2021 | **CGPA: 3.91 out of 4**)
-- 📜 **Diploma of CST** – Feni Computer Institute (Passing: 2017 | **CGPA: 3.12 out of 4**)
-- 🛡️ **Courses:** Secure Coding (Secure Application Development) & Excel Essentials for Workplace Productivity
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=monjur-ajad-dev&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monjur-ajad-dev&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=monjur-ajad-dev&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=monjur-ajad-dev&theme=tokyonight&no-frame=true&row=2&column=4" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=monjur-ajad-dev&theme=tokyo-night" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+## 🎓 Education
+
+🎓 B.Sc in Computer Science & Engineering
+**Feni University** — CGPA 3.91 / 4.00
+
+🎓 Diploma in Computer Science & Technology
+**Feni Computer Institute**
 
 ---
 
@@ -122,3 +168,5 @@
 
 ---
 <p align="center"><i>"Building secure, scalable, and high-performance digital solutions."</i></p>
+
+</div>
